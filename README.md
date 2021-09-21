@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AtomX8
-- 👀 I’m interested in Minecraft🤯
-- 🌱 I’m currently learning c++,phyton
+- 👀 I’m interested in survival games and games development🤯
+- 🌱 I’m currently learning c++, c#, phyton
